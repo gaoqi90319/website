@@ -13,7 +13,7 @@ This starter theme requires installation of these additional scripts:
 
 ## Replacements
 
-When developing a new theme, you need to batch replace a predefined set of string variables. Each variable is enclosed in `{%= %}` brackets (i.e. `{%= variable_name %}`).
+##When developing a new theme, you need to batch replace a predefined set of string variables. Each variable is enclosed in `{%= %}` brackets (i.e. `{%= variable_name %}`).
 
 ### Example replacements:
 
