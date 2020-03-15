@@ -8,34 +8,24 @@
 	>
 
 <channel>
-	<title></title>
+	<title>SATability</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://gaoqi90319.github.io/website</link>
+	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Mar 2020 22:29:03 +0000</lastBuildDate>
-	<language>en-GB</language>
+	<lastBuildDate>Sun, 15 Mar 2020 21:12:27 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://gaoqi90319.github.io/website/2020/03/09/hello-world/</link>
-				<comments>https://gaoqi90319.github.io/website/2020/03/09/hello-world/#comments</comments>
-				<pubDate>Mon, 09 Mar 2020 22:29:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Uncategorised]]></category>
 
-		<guid isPermaLink="false">https://gaoqi90319.github.io/website/?p=1</guid>
-				<description><![CDATA[<div class="entry-summary">
-Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
-</div><div class="link-more"><a href="https://gaoqi90319.github.io/website/2020/03/09/hello-world/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Hello world!&#8221;</span>&#8230;</a></div>]]></description>
-								<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-							<wfw:commentRss>https://gaoqi90319.github.io/website/2020/03/09/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-							</item>
-	</channel>
+<image>
+	<url>/wp-content/uploads/2020/03/Favicon_S_blue-150x150.png</url>
+	<title>SATability</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
